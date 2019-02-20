@@ -2,3 +2,4 @@ Vancouver
 Montreal
 New York
 Seattle
+Toronto
