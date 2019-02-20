@@ -4,6 +4,7 @@ New York
 Seattle
 Toronto
 Calgary
+Surrey
 Tokyo
 Portland
 Richmond
