@@ -6,3 +6,4 @@ Toronto
 Calgary
 Tokyo
 Portland
+Burnaby
